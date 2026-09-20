@@ -227,4 +227,4 @@ UpRight is offered as a complete free version with all features and updates incl
 Take control of your file transfers today! **Download UpRight free** and experience effortless uploads to your servers.
 
 ---
-**Last updated:** 2026-09-20 10:37:56 UTC
+**Last updated:** 2026-09-20 14:29:17 UTC
